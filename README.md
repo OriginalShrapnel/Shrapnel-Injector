@@ -26,7 +26,7 @@ These instructions will help you get a copy of the project up and running on you
 
 - Visual Studio (or another C++ compiler)
 - Windows OS
-- ![Shrap_Menu.dll](https://github.com/OriginalShrapnel/Shrapnel-Injector)
+- [Shrap_Menu.dll](https://github.com/OriginalShrapnel/Shrapnel-Injector)
 
 ### Installation
 
