@@ -51,7 +51,8 @@ These instructions will help you get a copy of the project up and running on you
 
 3. Build the project.
 
- Usage
+## Usage
+
 1. Run the built executable.
 
 2. Follow the on-screen instructions to select a process and inject the DLL.
