@@ -78,8 +78,9 @@ These instructions will help you get a copy of the project up and running on you
 
 - Submit a pull request.
 
-License
-This project is licensed under the MIT License.
+## License
+
+- This project is licensed under the MIT License.
 
 ## Acknowledgments 
 
