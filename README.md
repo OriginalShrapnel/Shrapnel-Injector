@@ -8,6 +8,9 @@
 ![GitHub Contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
 ![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)
 
+**Shrapnel Injector** is a simple tool for injecting a DLL into running processes on Windows. 
+
+***WIP*** Expect more changes and smoother functionality, i am working on a functional GUI for this currently. if you have any issues feel free to open an ticket.
 
 ## Table of Contents
 
@@ -21,10 +24,6 @@
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
-
-**Shrapnel Injector** is a simple tool for injecting a DLL into running processes on Windows. 
-
-***WIP*** Expect more changes and smoother functionality, i am working on a functional GUI for this currently. if you have any issues feel free to open an ticket.
 
 ## Open an Issue
 
