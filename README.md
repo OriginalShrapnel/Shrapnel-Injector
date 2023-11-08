@@ -83,6 +83,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- **Discord**: ![reeses (1)](https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/91c808a7-7e25-4063-8ed9-ce2e276a9365)
- @OriginalShrapnel
+- **Discord**: ![image](https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/9ee8e9f1-6acc-47fc-9ba0-826e9f92e538)
+@OriginalShrapnel
 
