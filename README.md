@@ -9,7 +9,9 @@
 ![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)
 
 
-![Shrapnel_logo_transp__1_-removebg-preview (1)](https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/c803dac8-7cfc-402d-962a-8a112b606c8a)
+<div align="center">
+  <img src="https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/c803dac8-7cfc-402d-962a-8a112b606c8a" alt="Shrapnel Logo">
+</div>
 
 
 ## Table of Contents
