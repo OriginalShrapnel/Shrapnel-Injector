@@ -83,4 +83,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- Original Shrapnel - Discord @OriginalShrapnel
+- **Discord**: :custom_discord_icon: @OriginalShrapnel
+
