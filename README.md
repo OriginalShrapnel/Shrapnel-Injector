@@ -10,7 +10,7 @@
 
 ***WIP*** Expect more changes and smoother functionality, i am working on a functional GUI for this currently. if you have any issues feel free to open an ticket.
 
-##Open an Issue
+## Open an Issue
 
 - [Open an issue here](https://github.com/OriginalShrapnel/Shrapnel-Injector/issues/new)
 
