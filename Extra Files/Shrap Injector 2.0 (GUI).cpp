@@ -17,7 +17,7 @@ bool file_exists(const char* file_name)
 
 int main()
 {
-    const char* dll_name = "Shrap_Menu.dll";  // Replace with the actual path to your DLL. OR Drag it in..
+    const char* dll_name = "?";  // Replace with the actual path to your DLL.
 
     if (!file_exists(dll_name))
     {
@@ -34,7 +34,7 @@ int main()
         \/      \/           \/|__|        \/     \/               \/        \/       \/          \/\______|    \/     \/     
 )" << std::endl;
 
-        // Display the menu and get user's choice
+        // Display the menu and get the user's choice
         while (true)
         {
 
