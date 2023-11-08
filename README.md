@@ -7,7 +7,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/issues)
 [![Release Version](https://img.shields.io/github/v/release/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
-![GitHub Actions](https://github.com/OriginalShrapnel/Shrapnel-Injector/workflows/CI/badge.svg)
 
 
 
