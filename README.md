@@ -21,10 +21,13 @@
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
+## About Shrapnel Injector 
 
-**Shrapnel Injector** is a simple tool for injecting a DLL into running processes on Windows. 
+- **DLL Injection**: Shrapnel Injector provides a straightforward and reliable method for injecting custom DLLs into target processes.
 
-***WIP*** Expect more changes and smoother functionality, i am working on a functional GUI for this currently. if you have any issues feel free to open an ticket.
+- **User-Friendly**: With an easy-to-use interface, this tool simplifies the process of selecting and injecting DLLs.
+
+- **Work in Progress**: I am continually improving Shrapnel Injector to provide a seamless experience for our users. Expect new features, enhancements, and smoother functionality in future updates.
 
 ## Open an Issue
 
