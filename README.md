@@ -1,12 +1,12 @@
 # Shrapnel Injector
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/OriginalShrapnel/Shrapnel-Injector)
-[![GitHub Stars](https://img.shields.io/github/stars/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/stargazers)
-![GitHub Contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
-[![Total Downloads](https://img.shields.io/github/downloads/OriginalShrapnel/Shrapnel-Injector/total.svg)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
-[![GitHub Forks](https://img.shields.io/github/forks/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/issues)
 [![Release Version](https://img.shields.io/github/v/release/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/OriginalShrapnel/Shrapnel-Injector/total.svg)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
+![GitHub Stars](https://img.shields.io/github/stars/OriginalShrapnel/Shrapnel-Injector)
+![GitHub Forks](https://img.shields.io/github/forks/OriginalShrapnel/Shrapnel-Injector)
+![GitHub Contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
+![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)
 
 
 
