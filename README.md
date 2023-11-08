@@ -40,22 +40,27 @@ Run the built executable.
 
 Follow the on-screen instructions to select a process and inject the DLL.
 
-Contributing
-We welcome contributions from the community. If you'd like to contribute to the project, please follow these guidelines:
+## Contributing
 
-Fork the repository.
+- We welcome contributions from the community. If you'd like to contribute to the project, please follow these guidelines:
 
-Create your feature branch: git checkout -b feature/my-new-feature.
+- Fork the repository.
 
-Commit your changes: git commit -am 'Add some feature'.
+- Create your feature branch: git checkout -b feature/my-new-feature.
 
-Push to the branch: git push origin feature/my-new-feature.
+- Commit your changes: git commit -am 'Add some feature'.
 
-Submit a pull request.
+- Push to the branch: git push origin feature/my-new-feature.
+
+- Submit a pull request.
 
 License
 This project is licensed under the MIT License.
 
-Acknowledgments
-Contact
-Original Shrapnel - Discord @OriginalShrapnel
+## Acknowledgments 
+
+- (Empty)
+
+## Contact
+
+- Original Shrapnel - Discord @OriginalShrapnel
