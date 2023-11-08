@@ -1,9 +1,14 @@
 # Shrapnel Injector
 
-![GitHub](https://img.shields.io/github/license/OriginalShrapnel/Shrapnel-Injector)
-![GitHub last commit](https://img.shields.io/github/last-commit/OriginalShrapnel/Shrapnel-Injector)
-![GitHub contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/OriginalShrapnel/Shrapnel-Injector)
+[![GitHub Stars](https://img.shields.io/github/stars/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/stargazers)
+![GitHub Contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
 [![Total Downloads](https://img.shields.io/github/downloads/OriginalShrapnel/Shrapnel-Injector/total.svg)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
+[![GitHub Forks](https://img.shields.io/github/forks/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/issues)
+[![Release Version](https://img.shields.io/github/v/release/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
+![GitHub Actions](https://github.com/OriginalShrapnel/Shrapnel-Injector/workflows/CI/badge.svg)
+
 
 
 **Shrapnel Injector** is a simple tool for injecting a DLL into running processes on Windows. 
