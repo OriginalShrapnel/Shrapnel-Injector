@@ -8,6 +8,9 @@
 ![GitHub Contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
 ![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)
 
+![Shrapnel_Logo](https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/92a683e5-01cd-459d-8f94-d12d2289c347)
+
+
 ## Table of Contents
 
 - [About Shrapnel Injector](#about-shrapnel-injector)
