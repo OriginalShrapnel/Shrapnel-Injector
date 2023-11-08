@@ -31,14 +31,14 @@ These instructions will help you get a copy of the project up and running on you
    ```bash
    git clone https://github.com/OriginalShrapnel/Shrapnel-Injector.git
 
-Open the project in Visual Studio (or your preferred C++ IDE/compiler).
+2. Open the project in Visual Studio (or your preferred C++ IDE/compiler).
 
-Build the project.
+3. Build the project.
 
-Usage
-Run the built executable.
+ Usage
+1. Run the built executable.
 
-Follow the on-screen instructions to select a process and inject the DLL.
+2. Follow the on-screen instructions to select a process and inject the DLL.
 
 ## Contributing
 
