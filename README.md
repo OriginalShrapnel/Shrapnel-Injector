@@ -1,5 +1,9 @@
 # Shrapnel Injector
 
+<div align="center">
+  <img src="https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/c803dac8-7cfc-402d-962a-8a112b606c8a" alt="Shrapnel Logo">
+</div>
+
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/OriginalShrapnel/Shrapnel-Injector)
 [![Release Version](https://img.shields.io/github/v/release/OriginalShrapnel/Shrapnel-Injector)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
 [![Total Downloads](https://img.shields.io/github/downloads/OriginalShrapnel/Shrapnel-Injector/total.svg)](https://github.com/OriginalShrapnel/Shrapnel-Injector/releases)
@@ -7,12 +11,6 @@
 ![GitHub Forks](https://img.shields.io/github/forks/OriginalShrapnel/Shrapnel-Injector)
 ![GitHub Contributors](https://img.shields.io/github/contributors/OriginalShrapnel/Shrapnel-Injector)
 ![GitHub Issues](https://img.shields.io/github/issues/OriginalShrapnel/Shrapnel-Injector)
-
-
-<div align="center">
-  <img src="https://github.com/OriginalShrapnel/Shrapnel-Injector/assets/97250330/c803dac8-7cfc-402d-962a-8a112b606c8a" alt="Shrapnel Logo">
-</div>
-
 
 ## Table of Contents
 
